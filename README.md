@@ -7,6 +7,7 @@ An open-source toolkit designed to help small and medium eCommerce sellers optim
 - Keyword extraction for better search ranking
 - Product description optimization
 - Bulk listing formatting support
+- - Simple CLI-based workflow for quick usage
 
 ## 🎯 Purpose
 Many small sellers cannot afford expensive SaaS tools. This project provides a free, open-source alternative to improve listing quality and visibility.
