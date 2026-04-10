@@ -1,0 +1,3 @@
+- Add AI integration
+- Build dashboard
+- Expand features
