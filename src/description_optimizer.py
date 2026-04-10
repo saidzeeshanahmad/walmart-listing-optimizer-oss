@@ -1,5 +1,12 @@
 def optimize_description(desc):
-    return desc + " This product is high quality, durable, and ideal for everyday use."
+    enhancements = [
+        "high quality",
+        "durable",
+        "best in class",
+        "designed for everyday use"
+    ]
+    
+    return desc + " " + ", ".join(enhancements) + "."
 
 if __name__ == "__main__":
-    print(optimize_description("Sample product"))
+    print(optimize_description("Wireless earbuds with great sound"))
