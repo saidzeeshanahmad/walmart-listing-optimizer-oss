@@ -8,6 +8,8 @@ An open-source toolkit designed to help small and medium eCommerce sellers optim
 - Product description optimization
 - Bulk listing formatting support
 - - Simple CLI-based workflow for quick usage
+## 🤖 AI-Assisted Logic
+This project uses structured keyword generation and rule-based optimization techniques that simulate AI-assisted workflows, making it easy to integrate with LLMs like Claude in the future.
 
 ## 🎯 Purpose
 Many small sellers cannot afford expensive SaaS tools. This project provides a free, open-source alternative to improve listing quality and visibility.
