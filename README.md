@@ -38,3 +38,10 @@ We welcome contributors! Please feel free to open issues or submit pull requests
 MIT License
 ## 🌍 Community
 Built for small eCommerce sellers and open-source contributors.
+## 📊 Example Output
+
+Input:
+Wireless Earbuds
+
+Output:
+Buy SoundMax Wireless Earbuds Electronics Best Price High Quality | Buy Online
