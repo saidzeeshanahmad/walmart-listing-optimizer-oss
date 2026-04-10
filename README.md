@@ -34,3 +34,5 @@ We welcome contributors! Please feel free to open issues or submit pull requests
 
 ## 📄 License
 MIT License
+## 🌍 Community
+Built for small eCommerce sellers and open-source contributors.
