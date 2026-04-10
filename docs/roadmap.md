@@ -1,3 +1,4 @@
 - Add AI integration
 - Build dashboard
 - Expand features
+- Improve keyword ranking accuracy
